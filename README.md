@@ -14,8 +14,7 @@
 ### STAGE 1:
 INITIAL ORBITAL SATELLITE ANALYSIS
 #### Launch analysis
-As the first step, we use a simple launch vehicle like an [Atlas V series](https://user-images.githubusercontent.com/114763167/193393064-eae55759-5540-45be-b88f-8d4490ad902c.png)
-) to send the spacecraft from Earth or Planet A to Planet by with fuel boosters as per requirement to launch the spacecraft into orbit of Planet B. By the use of basic RD 180 engines or similar constructs and solid rocket boosters which are discarded after the Earth's atmosphere is left, after which, a payload adapter system releases the orbiter from the launch vehicle.
+As the first step, we use a simple launch vehicle like an [Atlas V series](https://user-images.githubusercontent.com/114763167/193393064-eae55759-5540-45be-b88f-8d4490ad902c.png) to send the spacecraft from Earth or Planet A to Planet by with [solid fuel boosters](https://user-images.githubusercontent.com/114763167/193393139-38cd3715-debd-436b-941a-d1f6f7bca0fa.png) as per requirement to launch the spacecraft into orbit of Planet B. By the use of basic RD 180 engines or similar constructs and solid rocket boosters which are discarded after the Earth's atmosphere is left, after which, a payload adapter system releases the orbiter from the launch vehicle.
 
 The payload fairings used to protect the spacecraft from weather in earth before launch and aero heating in the atmosphere which might lead to damage in the components of the orbiter, is jettisoned when the launch vehicle reaches the required height where none of these factors play a role anymore
 
