@@ -11,6 +11,7 @@
   * [Bots analysis](https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#bots-analysis)
 * [STAGE 3](https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#stage-3)
   * [CONTROL ANALYSIS](https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#control-testing)
+* [What makes this different from the planet exploration strategies currently in use?]{https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#what-makes-this-different-from-the-planet-exploration-strategies-currently-in-use}
 ### STAGE 1:
 INITIAL ORBITAL SATELLITE ANALYSIS
 #### Launch analysis
