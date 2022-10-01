@@ -11,7 +11,8 @@
   * [Bots analysis](https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#bots-analysis)
 * [STAGE 3](https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#stage-3)
   * [CONTROL ANALYSIS](https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#control-testing)
-* [What makes this different from the planet exploration strategies currently in use?]{https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#what-makes-this-different-from-the-planet-exploration-strategies-currently-in-use}
+* [What makes this different from the planet exploration strategies currently in use?](https://github.com/NaveenManoharan22/ODYSSEY/edit/main/README.md#what-makes-this-different-from-the-planet-exploration-strategies-currently-in-use)
+
 ### STAGE 1:
 INITIAL ORBITAL SATELLITE ANALYSIS
 #### Launch analysis
@@ -84,3 +85,15 @@ The console is the module which consists of the tools required for onsite analys
 
 ### What makes this different from the planet exploration strategies currently in use?
 
+while the other exploratory missions currently in progress and in the past were all single system missions without any failsafes, and all equipment was cramped right into a single unit, which made traversing rough terrains not only difficult, but also a very risky game, but in this one, all of the instruments are safely tucked away in the research dock while the bots collect the samples making it a lot quicker, safer and easier.
+
+### pros:
+* In detail analysis
+* Much more reliable
+* Explores a lot more territory in the same mission in the same given time period
+* Has a lot of failsafe and backup measures
+* Does not require large man power once automatation is complete
+
+### cons:
+* it costs a lot more than that of what the perseverance rover mission costs(not including RnD)
+* decrease in requirement of man power creates a lack of jobs in the field
