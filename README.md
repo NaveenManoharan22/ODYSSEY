@@ -45,7 +45,7 @@ which has not been launched yet, [RS 25 engines](https://user-images.githubuserc
 
 The research dock is the cargo carried by the incredibly powerful rocket systems, it contains:
 * Instruments required for indetail accurate analysis
-* MMRTGG, which multi mission plutonium based radio isotope thermo electric generator, aka power source incase of harsh weather
+* [MMRTGG](https://user-images.githubusercontent.com/114763167/193394157-0bb01a53-20cd-44e4-94ae-a420603e6c7e.png), which multi mission plutonium based radio isotope thermo electric generator, aka power source incase of harsh weather
 * Bots, which are used to collect various samples of various kinds from various terrains.
 * X-Band communcations system for contact with home base(hopefully still earth)
 
@@ -76,4 +76,7 @@ types of data stored in the database:
 * chemical composition, for identifying a particular element or compound in the wild
 * weather data, to made predictions about weather forecasts to help navigate the planet in ease
 * surface data, to draw a rough map of the surface and terrain of the planet
-* 
+
+#### CONSOLE CREATION:
+
+The console is the module which consists of the tools required for onsite analysis for searching recorded results from the database, which has been loaded onto the main server to let all connected devices access the information
