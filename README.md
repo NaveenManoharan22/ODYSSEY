@@ -79,4 +79,7 @@ types of data stored in the database:
 
 #### CONSOLE CREATION:
 
-The console is the module which consists of the tools required for onsite analysis for searching recorded results from the database, which has been loaded onto the main server to let all connected devices access the information
+The console is the module which consists of the tools required for onsite analysis for searching recorded results from the database, which has been loaded onto the main server to let all connected devices access the information. On a sample collected from the user when he is on site, it matches the given data with the data set which has already been established giving him the information on a handheld device or a heads up display in his/her/their helmet. 
+
+### What makes this different from the planet exploration strategies currently in use?
+
