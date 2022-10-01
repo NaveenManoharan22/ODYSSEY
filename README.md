@@ -14,9 +14,9 @@
 ### STAGE 1:
 INITIAL ORBITAL SATELLITE ANALYSIS
 #### Launch analysis
-As the first step, we use a simple launch vehicle like an [Atlas V series](https://user-images.githubusercontent.com/114763167/193393064-eae55759-5540-45be-b88f-8d4490ad902c.png) to send the spacecraft from Earth or Planet A to Planet by with [solid fuel boosters](https://user-images.githubusercontent.com/114763167/193393139-38cd3715-debd-436b-941a-d1f6f7bca0fa.png) as per requirement to launch the spacecraft into orbit of Planet B. By the use of basic RD 180 engines or similar constructs and solid rocket boosters which are discarded after the Earth's atmosphere is left, after which, a payload adapter system releases the orbiter from the launch vehicle.
+As the first step, we use a simple launch vehicle like an [Atlas V series](https://user-images.githubusercontent.com/114763167/193393064-eae55759-5540-45be-b88f-8d4490ad902c.png) to send the spacecraft from Earth or Planet A to Planet by with [solid fuel boosters](https://user-images.githubusercontent.com/114763167/193393139-38cd3715-debd-436b-941a-d1f6f7bca0fa.png) as per requirement to launch the spacecraft into orbit of Planet B. By the use of basic [RD 180 engines](https://user-images.githubusercontent.com/114763167/193393215-718901c3-8e0c-4400-9899-be249948d42c.png) or similar constructs and solid rocket boosters which are discarded after the Earth's atmosphere is left, after which, a [payload adapter](https://user-images.githubusercontent.com/114763167/193393252-26b8674e-b374-401d-9e4b-90da932b0eef.png) system releases the orbiter from the launch vehicle.
 
-The payload fairings used to protect the spacecraft from weather in earth before launch and aero heating in the atmosphere which might lead to damage in the components of the orbiter, is jettisoned when the launch vehicle reaches the required height where none of these factors play a role anymore
+The [payload fairings](https://user-images.githubusercontent.com/114763167/193393274-cf549188-0196-47f1-b1bc-3f62c6a19a96.png) used to protect the spacecraft from weather in earth before launch and aero heating in the atmosphere which might lead to damage in the components of the orbiter, is jettisoned when the launch vehicle reaches the required height where none of these factors play a role anymore
 
 #### Orbiter analysis
 
@@ -38,7 +38,8 @@ by the results given by the orbiter, an AI sensing systems checks if an explorat
 ### STAGE 2:
 LAND BASED RESEARCH DOCK ANALYSIS:
 #### Launch analysis
-As the second step, we use spacecraft systems which are powerful beyond scope of commercial spacecraft launches like the ARTEMIS-I which has not been launched yet, RS 25 engines used to thrust the heavy, wet system off the Earth's/ planet A's gravitational field, fueled by a highly compressed liquied hydrogen tank, along with solid rocket boosters which help in propulsion, after the atmosphere crossed, the engine fuel systems and the booster systems detach, leaving the liquid oxygen propulsion system to take over, on the fuel being emptied, the payload adapters and the other jettsioning parts are removed, leaving the interim cryogenic propulsion system, which ensure a smooth landing on the destination planet.
+As the second step, we use spacecraft systems which are powerful beyond scope of commercial spacecraft launches like the [ARTEMIS-I](https://user-images.githubusercontent.com/114763167/193393399-8884658c-cd54-4c5d-b43b-bda4df2b5972.png)
+which has not been launched yet, [RS 25 engines](https://user-images.githubusercontent.com/114763167/193393342-f438823e-9483-408b-85d1-32a0f3861b9a.png) used to thrust the heavy, wet system off the Earth's/ planet A's gravitational field, fueled by a highly compressed liquied hydrogen tank, along with solid rocket boosters which help in propulsion, after the atmosphere crossed, the engine fuel systems and the booster systems detach, leaving the liquid oxygen propulsion system to take over, on the fuel being emptied, the payload adapters and the other jettsioning parts are removed, leaving the interim cryogenic propulsion system, which ensure a smooth landing on the destination planet.
 
 #### Research dock analysis
 
